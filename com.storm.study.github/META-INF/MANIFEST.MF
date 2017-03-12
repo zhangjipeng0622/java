@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Github
+Bundle-SymbolicName: com.storm.study.github
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: STORM
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
